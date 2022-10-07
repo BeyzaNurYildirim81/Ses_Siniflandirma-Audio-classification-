@@ -1,4 +1,4 @@
-# Ses-S-n-fland-rma
+# Ses sınıflandırma (audio classification)
 CNN ile Urbansound8K veri seti üzerinde sınıflandırma yapıldı.
 
 
